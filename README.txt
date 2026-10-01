@@ -21,3 +21,4 @@ Build with GitHub Actions:
 5. Extract app-debug.apk and install it.
 
 The app has V1 and V2 tabs, search, D-pad focusable channel buttons, and BACK to return from player to channel list.
+https://drive.google.com/file/d/1rXnRb51iDDXNQ3iIqgE7veuhu3pPU6Gk/view?usp=sharing
